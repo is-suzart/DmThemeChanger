@@ -2,7 +2,7 @@
   "name": "DM Theme Changer",
   "description": "Automatically change theme styles when dark mode is enabled or disabled.",
   "version": 5,
-  "uuid": "dm-theme-changer@lynixx01.github.com",
+  "uuid": "dm-theme-changer@is-suzart.github.com",
   "shell-version": ["46", "47","48"],
   "url": "https://github.com/is-suzart/DmThemeChanger",
   "settings-schema": "org.gnome.shell.extensions.dmthemechanger"
